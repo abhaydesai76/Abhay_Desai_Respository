@@ -1,0 +1,1 @@
+There are 2 components, 1st is a DotNet Core API to retrieve data from MS SQL Server database and 2nd is a ReactJS Front End application to call this API and display data to user. They are in 2 separate zip files, "Abhay_StarWars_API.zip" and "Abhay_StarWars_Client.zip".
